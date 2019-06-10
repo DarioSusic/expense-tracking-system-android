@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_transaction"
+        android:icon="@drawable/ic_bars_solid"
+        android:title="@string/title_transaction" />
+    <item
+        android:id="@+id/navigation_overview"
+        android:icon="@drawable/ic_chart_bar_regular"
+        android:title="@string/title_overview" />
+    <item
+        android:id="@+id/navigation_add"
+        android:icon="@drawable/ic_plus_circle_solid"
+        android:title="@string/title_add" />
+    <item
+        android:id="@+id/navigation_budget"
+        android:icon="@drawable/ic_hand_holding_usd_solid"
+        android:title="@string/title_budget" />
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@drawable/ic_sliders_h_solid"
+        android:title="@string/title_settings" />
+
+</menu>
